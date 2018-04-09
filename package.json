@@ -1,0 +1,20 @@
+{
+  "name": "lcv-ssl-certbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docker": "docker  build -t oursgroumy/lcv-ssl-certbot ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jleveau/LCV-ssl-certbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jleveau/LCV-ssl-certbot/issues"
+  },
+  "homepage": "https://github.com/jleveau/LCV-ssl-certbot#readme"
+}
